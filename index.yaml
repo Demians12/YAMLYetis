@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  aws-vpc:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2023-06-13T10:56:14.338578-03:00"
+    digest: 93f481d8ff873649f8024247ee45e792816cc773d08ec26fd421768e145088b3
+    name: aws-vpc
+    urls:
+    - https://demians12.github.io/helm-charts/charts/aws-vpc-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-06-13T10:56:14.337554-03:00"
